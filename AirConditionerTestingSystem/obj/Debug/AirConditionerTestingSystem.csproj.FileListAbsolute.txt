@@ -1,0 +1,6 @@
+C:\Users\kidroca\Desktop\Air Conditioner Testing System_Skeleton\AirConditionerTestingSystem\bin\Debug\AirConditionerTestingSystem.exe.config
+C:\Users\kidroca\Desktop\Air Conditioner Testing System_Skeleton\AirConditionerTestingSystem\bin\Debug\AirConditionerTestingSystem.exe
+C:\Users\kidroca\Desktop\Air Conditioner Testing System_Skeleton\AirConditionerTestingSystem\bin\Debug\AirConditionerTestingSystem.pdb
+C:\Users\kidroca\Desktop\Air Conditioner Testing System_Skeleton\AirConditionerTestingSystem\obj\Debug\AirConditionerTestingSystem.csprojResolveAssemblyReference.cache
+C:\Users\kidroca\Desktop\Air Conditioner Testing System_Skeleton\AirConditionerTestingSystem\obj\Debug\AirConditionerTestingSystem.exe
+C:\Users\kidroca\Desktop\Air Conditioner Testing System_Skeleton\AirConditionerTestingSystem\obj\Debug\AirConditionerTestingSystem.pdb
