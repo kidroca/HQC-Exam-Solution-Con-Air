@@ -30,34 +30,34 @@ Dependency to other object is resolved in the constructors or public properties 
 > The Air Conditioner's Test() method is left absract so that different implementations can alter this logic. Different air conditioner models override the ToString() method steping on the base.ToString() defined in the abstract implementation
 to produce different result but sharing common logic.
 
-#### Score: 22
+#### Score: 22 / 25
 
 ### 2.StyleCop - 42 Warnings 
-#### Score: 0
+#### Score: 0 / 4
 
 ### 3.Bug Fixing
 ###### There was a bug with the RegisterCarAirConditioner command: model and manufacturer parameters were had switched places.
 ###### In splitting command parameters -> split should start from the next index.
 ###### "Passed" or "Failed" was appended to the report word.
-#### Score: 3
+#### Score: 3 / 4
 
 ### 4.Code Documentation - None of the required documentation added
-#### Score: 0
+#### Score: 0 / 7
 
 ### 5.Unit Testing - No Unit test created
-#### Score: 0
+#### Score: 0 / 30
 
 ### 6.Performance Bottlenecks - No Bottlenecks documented
-#### Score: 0
+#### Score: 0 / 4
 
 ### 7.Correct Results in the Judge System
-#### Score: 0
+#### Score: 0 / 16
 
 ### 8.Mocking - No Unit Test
-#### Score: 0
+#### Score: 0 / 10
 
 ### 9*. Dependency Injection -
 > Command execution is successfully decoupled by extracting logic into separate controller and injecting them in the constructor body of the CommandDistributor.
 Score: 10
 
-### Total: 35 points.
+### Total: 35 / 110 points.
