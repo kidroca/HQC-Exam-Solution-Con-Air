@@ -57,7 +57,7 @@ to produce different result but sharing common logic.
 #### Score: 0
 
 ### 9*. Dependency Injection -
-> Command execution is successfully decoupled from the controller by extracting logic into separate controller and injecting them in the constructor body.
+> Command execution is successfully decoupled by extracting logic into separate controller and injecting them in the constructor body of the CommandDistributor.
 Score: 10
 
 ### Total: 35 points.
